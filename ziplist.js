@@ -1,4 +1,4 @@
-//14:39
+// 14:39
 
 function zipList(list1, list2) {
   const newList = [];
